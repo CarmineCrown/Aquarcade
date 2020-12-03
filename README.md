@@ -1,5 +1,5 @@
 # Aquarcade
-A submission to competition hosted by IEEE SIES-GST IMSPECT ELEMENT 1.0:
+### A submission to competition hosted by IEEE SIES-GST IMSPECT ELEMENT 1.0:
 
 Inspect Element 1.0
 Theme : SubNautica
@@ -23,7 +23,7 @@ Your website should be compatible with Chrome, Firefox and Safari.
 The websites will be hosted on GitHub Pages exclusively. No other platforms will be allowed.
 
 
-## Aquarcade
+## Problem Statement
 (analogous to Arcade or Gaming Zone)
 
 Website should contain a list of games and activities with their prices.
