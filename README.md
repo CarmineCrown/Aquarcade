@@ -1,5 +1,5 @@
 # Aquarcade
-### A submission to competition hosted by IEEE SIES-GST IMSPECT ELEMENT 1.0:
+#### A submission to competition hosted by IEEE SIES-GST IMSPECT ELEMENT 1.0
 
 Inspect Element 1.0
 Theme : SubNautica
