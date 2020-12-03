@@ -5,10 +5,9 @@ Inspect Element 1.0
 Theme : SubNautica
 
 Details:
-•The event observes participating members in teams of two at the most.
-•The event will take place for 6 days 
-•Participants should only use HTML, CSS and JavaScript. 
-•Frameworks allowed:
+•The event observes participating members in teams of two at the most. \n
+•The event will take place for 6 days \n
+n•Frameworks allowed:
  Bootstrap (for CSS)
  Popper.js and jQuery (for JavaScript)
 •Google Fonts & Fontawesome (for Fonts / Icons)
